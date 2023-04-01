@@ -1,6 +1,6 @@
 # Signature Verification using different Neural Networks
 
-This project aims to explore different neural networks for signature verification. Four types of neural networks are implemented and compared, including Convolutional Neural Networks (CNN), Siamese Neural Networks (Siamese NN), Recurrent Neural Networks (RNN), Convolutional Recurrent Neural Networks (C-RNN), and Bidirectional Recurrent Neural Networks (B-RNN).
+This project aims to explore different neural networks for signature verification. Five types of neural networks are implemented and compared, including Convolutional Neural Networks (CNN), Siamese Neural Networks (Siamese NN), Recurrent Neural Networks (RNN), Convolutional Recurrent Neural Networks (C-RNN), and Bidirectional Recurrent Neural Networks (B-RNN).
 
 Three publicly available datasets are used for training and evaluation: Kaggle Datasets, CEDAR Dataset, and ICDAR Dataset.
 
